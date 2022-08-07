@@ -1,0 +1,27 @@
+.cardContainer{
+    height: 68vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+.card{
+    position: relative;
+    width: 600px;
+    max-width: 80vw;
+    height: 50vh;
+    padding: 30px;
+    border-radius: 20px;
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.3);
+}
+.swipe{
+    position: absolute;
+}
+.name{
+    position: absolute;
+    bottom: 20px;
+    color: whitesmoke;
+    font-size: 1.3rem;;
+}

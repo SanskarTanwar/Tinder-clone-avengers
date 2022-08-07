@@ -1,0 +1,13 @@
+.tinderHeader{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.tinderIcon{
+    height: 50px;
+    object-fit: contain;
+}
+.personIcon{
+    height: 20px;
+}

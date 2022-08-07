@@ -1,0 +1,38 @@
+.bottemButtons{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    position: fixed;
+    bottom: 40px;
+    z-index: 50;
+}
+.bottemButtons .replay{
+    padding:3vw !important;
+    box-shadow: 0px 10px 40px 0px rgba(0,0,0,0.3);
+    color: rgb(225, 111, 170);
+    z-index: 50;
+}
+.bottemButtons .close{
+    padding:3vw !important;
+    box-shadow: 0px 10px 40px 0px rgba(0,0,0,0.3);
+    color: rgb(233, 81, 0);
+    z-index: 50;
+}
+.bottemButtons .star{
+    padding:3vw !important;
+    box-shadow: 0px 10px 40px 0px rgba(0,0,0,0.3);
+    color: rgb(0, 224, 220);
+    z-index: 50;
+}
+.bottemButtons .favtorite{
+    padding:3vw !important;
+    box-shadow: 0px 10px 40px 0px rgba(0,0,0,0.3);
+    color: rgb(0, 227, 0);
+    z-index: 50;
+}
+.bottemButtons .flash{
+    padding:3vw !important;
+    box-shadow: 0px 10px 40px 0px rgba(0,0,0,0.3);
+    color: rgb(193, 0, 193);
+    z-index: 50;
+}
